@@ -8,7 +8,6 @@
     include ("PHP/include/navigation.php");
     include ("PHP/include/footer.php");
     ?>
-
     
 </body>
 </html>

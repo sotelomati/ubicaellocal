@@ -4,5 +4,5 @@
     <title>Ubica el local</title>
     <link rel="stylesheet" type="text/css" href="Estilos/style.css" media="screen" />
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"></script>
+    <script src="https://kit.fontawesome.com/ade66f4bda.js" crossorigin="anonymous"></script>
 </head>
