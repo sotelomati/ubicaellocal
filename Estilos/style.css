@@ -39,3 +39,30 @@ li a {
 li a:hover {
     background-color: #111;
 }
+/* ########################
+            Footer
+  ######################## */
+.footer {
+  margin: auto;
+ 
+  background-color: black;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  color: white;
+  justify-content:center;
+  text-align:center
+  }
+
+  .int-footer {
+    width: 100%;
+    justify-content:center;
+    display: grid; 
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .row-footer {
+      width: 30%;
+      padding: 10px;
+  }
