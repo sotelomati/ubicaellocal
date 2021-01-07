@@ -10,8 +10,10 @@
     <?php
     include ("PHP/include/header.php");
 
-
     include ("PHP/include/footer.php");
     ?>
+
+    <p>Mati se la come</p>
+    
 </body>
 </html>
