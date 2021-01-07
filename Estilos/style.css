@@ -3,31 +3,34 @@
     margin: 0;
     padding: 0;
 }
-body {
-
-}
-
 
 .header {
     background-color: blueviolet;
-    height: 20%;
-    border: 0px;
-    margin-top: 0%;
+    height: 5vh;
 }
 
-ul {
+
+.navigation i{
+    font-size: 40px;
+    margin-right: 50px;
+    margin-top: 7px;
+}
+
+.navigation ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(61, 60, 60);
 }
 
-li {
+.navigation li {
+    margin-left: 20px;
     float: left;
+    font-size: 25px;
 }
 
-li a {
+.navigation li a {
     display: block;
     color: white;
     text-align: center;
@@ -35,8 +38,8 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
-li a:hover {
+
+.navigation li a:hover {
     background-color: #111;
 }
 /* ########################
