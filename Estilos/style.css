@@ -9,12 +9,14 @@
    ###################### */
 
 .header {
-    background-color: #74b9ff;
     height: 200px;
-    font-size: 90px;
     margin: auto;
     text-align: center;
-    color: rgb(189, 121, 121)
+} 
+
+.header img{
+    height: 200px;
+    width: 100%;
 }
 
 /* ######################
