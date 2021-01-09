@@ -27,7 +27,7 @@
                 <ul class="des-ul">
                     <li>Sotelo Matias</li>
                     <li>Rene Daian</li>
-                    <li>Bergomas Francisco</li>
+                    <li>Bergomas Francisco (Uno que sufre de exitophobia)</li>
                 </ul>
             </div>
         </div>
