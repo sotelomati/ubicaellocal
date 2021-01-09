@@ -41,7 +41,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="https://i.ytimg.com/vi/oO5kdamBczI/hqdefault.jpg" alt="Image">
+        <img src="https://espectaculo-cordoba.com.ar/wp-content/uploads/2019/06/acru-estuve-ahc3ad-3-945x401.jpg" alt="Image">
         <div class="carousel-caption">
           <h3>Sell $</h3>
           <p>Money Money.</p>
@@ -49,7 +49,7 @@
       </div>
 
       <div class="item">
-        <img src="https://images7.memedroid.com/images/UPLOADED947/5d764d1c60b35.jpeg" alt="Image">
+        <img src="https://i.pinimg.com/originals/aa/c8/80/aac880b1297544abf3a27d2c8a48ad9a.jpg" alt="Image">
         <div class="carousel-caption">
           <h3>More Sell $</h3>
           <p>Lorem ipsum...</p>
