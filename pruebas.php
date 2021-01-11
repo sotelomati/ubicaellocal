@@ -8,10 +8,10 @@
 <style>
 
   .columnas{
-    font-size: 40px;
+    font-size: 30px;
     border-right: 1px solid #d6d6d6;
     text-align:center;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
   }
 
   .columnas:last-child{
@@ -28,7 +28,7 @@
   }
 
   .uel{
-    font-size: 125px;
+    font-size: 95px;
     text-align:center;
     font-family: 'Brush Script MT';
   }
@@ -43,17 +43,17 @@
   }
 
   .uel img{
-    width: 100px;
+    width: 80px;
     height: auto;
-    margin-bottom:50px;
+    margin-bottom:35px;
   }
  
 </style>
 
 <body>
 
-    
-    <div class="container-fluid" style="background-color: #212121" >
+    <div class="headTop">
+    <div class="container-fluid" style="background-color: #212121; " >
 
         <div class="row justify-content-center">
 
@@ -68,7 +68,6 @@
 
           
     </div>
-
 
 
 </body>
