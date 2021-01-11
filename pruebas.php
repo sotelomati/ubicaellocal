@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 
+    <?php
+    include ("PHP/include/head.php");
+    ?>
+
 <style>
 
   .columnas{
@@ -38,10 +42,7 @@
 
 <body>
 
-    <?php
-    include ("PHP/include/head.php");
-    ?>
-
+    
     <div class="container-fluid" style="background-color: #212121" >
 
         <div class="row justify-content-center">
