@@ -42,6 +42,11 @@
     transition: color 1s;
   }
 
+  .uel img{
+    width: 5%;
+    height: auto;
+    margin-bottom:50px;
+  }
  
 </style>
 
@@ -52,7 +57,7 @@
 
         <div class="row justify-content-center">
 
-          <div class="col-12 uel" > <a href="index.php" style="text-decoration:none;"> Ubica el local</a> </div>
+          <div class="col-12 uel" ><a href="index.php" style="text-decoration:none;"> <img src="Imagenes/descarga1.png" alt=""> Ubica el local</a> </div>
     
           <div class="col-12 col-md-6 col-lg-3 columnas"> <a href="#"  style="color:#f00"> Ofertas </a> </div>
           <div class="col-12 col-md-6 col-lg-3 columnas" > <a href="#"> Gluten Free </a> </div>
