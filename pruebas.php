@@ -2,20 +2,25 @@
 <html lang="en">
 
 <style>
+
   .columnas{
-    color:white;
     font-size: 40px;
     border-right: 1px solid #d6d6d6;
     text-align:center;
     margin-bottom: 10px;
   }
 
-  .columnas:hover {
-    color:#52c9cc
-  }
-
   .columnas:last-child{
     border:none;
+  }
+
+  .columnas a{
+    color:white;
+    text-decoration:none;
+  }
+
+  .columnas a:hover {
+    color:#52c9cc
   }
 
   .uel{
@@ -43,10 +48,10 @@
 
           <div class="col-12 uel" > <a href="index.php" style="text-decoration:none;"> Ubica el local</a> </div>
     
-          <div class="col-12 col-md-6 col-lg-3 columnas" style="color:#f00">Ofertas</div>
-          <div class="col-12 col-md-6 col-lg-3 columnas" >Gluten Free</div>
-          <div class="col-12 col-md-6 col-lg-3 columnas" >Servicio El Noble</div>
-          <div class="col-12 col-md-6 col-lg-3 columnas" >Contacto</div>
+          <div class="col-12 col-md-6 col-lg-3 columnas"> <a href="#"  style="color:#f00"> Ofertas </a> </div>
+          <div class="col-12 col-md-6 col-lg-3 columnas" > <a href="#"> Gluten Free </a> </div>
+          <div class="col-12 col-md-6 col-lg-3 columnas" > <a href="#"> Servicio El Noble </a> </div>
+          <div class="col-12 col-md-6 col-lg-3 columnas" > <a href="#">  Contacto </a></div>
 
         </div>
 
