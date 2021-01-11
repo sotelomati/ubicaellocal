@@ -24,7 +24,7 @@
   }
 
   .columnas a:hover {
-    color:#52c9cc
+    color:#52c9cc;
   }
 
   .uel{
@@ -35,6 +35,11 @@
 
   .uel a{
     color:white;
+  }
+
+  .uel a:hover{
+    color:red;
+    transition: color 1s;
   }
 
  
@@ -58,6 +63,7 @@
 
           
     </div>
+
 
 
 </body>
