@@ -2,7 +2,6 @@
     border: 0;
     margin: 0;
     padding: 0;
-    font-family: Verdana;
 }
 
 /* ######################
@@ -91,7 +90,7 @@
   .int-footer {
     width: 100%;
     justify-content:center;
-    display: grid; 
+    display: grid;
     grid-template-columns: repeat(3, 1fr);
   }
 
