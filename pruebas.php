@@ -43,7 +43,7 @@
   }
 
   .uel img{
-    width: 5%;
+    width: 100px;
     height: auto;
     margin-bottom:50px;
   }
