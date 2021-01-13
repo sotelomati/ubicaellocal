@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <?php
+ <!-- <?php
     include ("PHP/include/head.php");
-    ?>
+    ?>   -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ubica el local</title>
+    <link rel="stylesheet" type="text/css" href="Estilos/style.css" media="screen" />
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+</head>
 
 <style>
 
@@ -51,7 +61,7 @@
 </style>
 
 <body>
-
+ 
     <div class="headTop">
     <div class="container-fluid" style="background-color: #212121; " >
 
@@ -63,12 +73,12 @@
           <div class="col-12 col-md-6 col-lg-3 columnas" > <a href="#"> Gluten Free </a> </div>
           <div class="col-12 col-md-6 col-lg-3 columnas" > <a href="#"> Servicio El Noble </a> </div>
           <div class="col-12 col-md-6 col-lg-3 columnas" > <a href="#">  Contacto </a></div>
-
         </div>
-
           
     </div>
 
 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    
 </body>
 </html>
