@@ -6,6 +6,6 @@
 <li><a href="#">Gluten Free</a></li>
 <li><a href="#">Servicio El Noble</a></li>
 <li><a href="#">Contacto</a></li>
-<li><a href="pruebas.php">Pruebas day</a></li>
+<li><a href="pruebas.html">Pruebas day</a></li>
 </ul>
 </div>
