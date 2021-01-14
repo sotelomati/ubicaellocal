@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ubica el local</title>
-    <link rel="stylesheet" type="text/css" href="Estilos/style.css" media="screen" />
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
 
@@ -13,7 +12,7 @@
 
 <style>
 
-  .columnas{
+  /* .columnas{
     font-size: 30px;
     border-right: 1px solid #d6d6d6;
     margin-bottom: 15px;
@@ -52,18 +51,26 @@
     width: 80px;
     height: auto;
     margin-bottom:35px;
-  }
+    margin-left: 0px;
+  } */
 
   .navbar-brand__img{
-    width: 60px;
+    width: 50px;
     margin-bottom: 20px;
   }
+
+  .lista a{
+    font-size: 30px;
+    margin-left:25px;
+  }
+
+
  
 </style>
 
 <body>
  
-    <div class="container-fluid" style="background-color: #212121; " >
+    <!-- <div class="container-fluid" style="background-color: #212121; " >
 
         <div class="row ">
 
@@ -74,23 +81,56 @@
           <div class="col-12 col-md-6 col-lg-3 columnas" > <a href="#">  Contacto </a></div>
         </div>
           
-    </div>
+    </div> -->
 
 
-    <div class="navbar navbar-expand-lg navbar-light bg-light">
-      <div class="container-fluid" style="background-color: #212121; " >
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark lista">
+      <div class="container-fluid" >
 
-        <a class="navbar-brand" href="#" style="color:#fff; font-size: 50px;"> 
+        <a class="navbar-brand" href="#"> 
           <img src="Imagenes/descarga1.png" loading=lazy alt="" class="navbar-brand__img"> Ubica el local
         </a>
         
-        <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false">
           <span class="navbar-toggler-icon"></span>
         </button>
 
-      </div>
-    </div>
+        <div class="collapse navbar-collapse " id="navbarSupportedContent">
 
+          <ul class="navbar-nav m-lg-auto">
+
+            <li class="nav-item " >
+              <a href="#" class="nav-link">
+                Ofertas
+              </a>
+            </li>
+
+            <li class="nav-item" >
+              <a href="#" class="nav-link">
+                Gluten Free
+              </a>
+            </li>
+
+            <li class="nav-item" >
+              <a href="#" class="nav-link">
+                El Noble
+              </a>
+            </li>
+
+            <li class="nav-item" >
+              <a href="#" class="nav-link" >
+                Contacto
+              </a>
+            </li>
+
+          </ul>
+        </div>
+
+      </div>
+    </nav>
+
+
+    
 
 
     
